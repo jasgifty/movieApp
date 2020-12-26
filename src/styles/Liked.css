@@ -1,0 +1,12 @@
+.liked {
+  display: flex;
+  flex-direction: column;
+  color: white;
+  margin-left: 20px;
+}
+.liked__items {
+  display: flex;
+  flex-wrap: wrap;
+  align-content: stretch;
+  width: 100%;
+}

@@ -1,0 +1,10 @@
+.body__info {
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding-bottom: 10px;
+}
+.body__info > a {
+  color: snow;
+}
